@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 32,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chris Pandolfo",
+            "title": "Florida officials report five deaths from 'flesh-eating' bacteria in Tampa Bay since January - Fox News",
+            "description": "Five people are confirmed dead, and 26 cases of flesh-eating vibrio vulnificus bacterial infections have been reported in Florida since January, health officials said.",
+            "url": "https://www.foxnews.com/us/florida-officials-report-5-deaths-flesh-eating-bacteria-tampa-bay-january",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/tampa-bay-beach.jpg",
+            "publishedAt": "2023-08-19T13:31:00Z",
+            "content": "Five people are confirmed dead in the Tampa Bay area because of a flesh-eating bacterium known to lurk at beaches, Florida officials reported.\r\nAccording to Florida Health, the vibrio vulnificus bact… [+3402 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Chris Livesay, Kerry Breen, Eleanor Tuohy",
+            "title": "Italian official calls tourists \"vandals\" after viral incidents: \"No respect for our cultural heritage\" - CBS News",
+            "description": "Viral incidents in Rome, Paris, Venice and other cities has garnered negative attention and expensive fines for tourists.",
+            "url": "https://www.cbsnews.com/news/italian-official-calls-some-tourists-vandals-after-months-of-viral-incidents-no-respect-for-our-cultural-heritage/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/19/1b489d2e-161e-4ac7-aec3-6acd6434697d/thumbnail/1200x630/98b3b0b8828f34a3cb24db18f5f4e5ab/0819-satmo-europeantravelwoes-livesay-2220729-640x360.jpg?v=0b4ae642db52799a178d90d83603a9dc",
+            "publishedAt": "2023-08-19T12:39:00Z",
+            "content": "In Rome, a tourist scaled the baroque masterpiece that is the Trevi Fountain to fill up her water bottle just months after a British man carved his and his girlfriends' initials into the Colosseum, a… [+1828 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Adrian Wojnarowski, Ramona Shelburne",
+            "title": "Sources - NBA launches inquiry into James Harden's situation - ESPN - ESPN",
+            "description": "The NBA has launched an inquiry into the circumstances surrounding Philadelphia 76ers star James Harden's public admonishment of the franchise's president of basketball operations, Daryl Morey, sources told ESPN.",
+            "url": "https://www.espn.com/nba/story/_/id/38219710/sources-nba-launches-inquiry-james-harden-situation",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0814%2Fr1210547_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-08-19T12:38:00Z",
+            "content": "Aug 19, 2023, 08:38 AM ET\r\nThe NBA has launched an inquiry into the circumstances surroundingPhiladelphia 76ersstarJames Harden's public admonishment of the franchise's president of basketball operat… [+4318 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Christian Davenport",
+            "title": "Russia and India attempt moon landings as they join new space race - The Washington Post",
+            "description": "Spacecraft from the two countries are set to touch down on the lunar surface over the next few days.",
+            "url": "https://www.washingtonpost.com/technology/2023/08/19/russia-india-moon-landing-artemis/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSNC6LQPJHRJ5XHVSLHWHOBP2M.JPG&w=1440",
+            "publishedAt": "2023-08-19T12:33:24Z",
+            "content": "Comment on this story\r\nComment\r\nThe moon may be dead and desolate, but it is now the hottest real estate in the solar system, generating interest from countries across the globe eager to demonstrate … [+8693 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Jesse Yomtov",
+            "title": "Sweden-Australia highlights: 2023 Women's World Cup's third-place game - USA TODAY",
+            "description": "The Swedish women extended their perfect record in World Cup third-place matches, with scoring Saturday in a clinical 2-0 win over co-host Australia.",
+            "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2023/08/19/sweden-defeats-australia-to-take-third-place-at-2023-womens-world-cup/70630695007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/19/USAT/70630785007-ap-aptopix-ww-cup-australia-sweden-soccer.jpg?crop=4384,2466,x702,y183&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2023-08-19T12:24:19Z",
+            "content": "Sweden defeated Australia 2-0 on Saturday in the 2023 World Cup's third-place game at Brisbane Stadium, the country's fourth bronze finish in nine editions of the tournament.\r\nIt feels amazing. We sh… [+2486 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Dr Ravi Jayaram: 5 Points On Indian Origin Doctor Who Raised Alarm Over Killer UK Nurse - NDTV",
+            "description": "Dr Ravi Jayaram, a UK-born Indian-origin consultant paediatrician at the Countess of Chester Hospital in northern England's Chester, is among those who raised concerns and helped convict the nurse found guilty by a UK court on Friday.",
+            "url": "https://www.ndtv.com/world-news/british-nurse-lucy-letby-5-points-on-indian-origin-doctor-ravi-jayaram-who-raised-alarm-over-killer-uk-nurse-4311257",
+            "urlToImage": "https://c.ndtvimg.com/2023-08/4ge323k_dr-ravi-jayaram-_625x300_19_August_23.jpg",
+            "publishedAt": "2023-08-19T12:06:00Z",
+            "content": "<li>Dr Ravi Jayaram is a Consultant Paediatrician at the Countess of Chester Hospital. According to Knight Ayton Management, he has worked in the National Health Service for over 10 years. \r\n</li><li… [+1042 chars]"
+        }
+    ]
+}
